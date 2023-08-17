@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Product Details</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9db9534f-721a-4028-8c7b-284fe3c78dfa</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3fbf3bf9-ac8c-4597-97a7-1cda4f1b25c2</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'minyak goreng'</defaultValue>
+      <description></description>
+      <id>3fbf3bf9-ac8c-4597-97a7-1cda4f1b25c2</id>
+      <masked>false</masked>
+      <name>input_1</name>
+   </variable>
+</TestCaseEntity>
